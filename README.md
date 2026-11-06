@@ -32,8 +32,9 @@ This component uses the matplotlib library to generate a mapping of multiplicati
 
 
 
-Multioptedu.ypnb : Displays the products of tables 1 to 10 up to 100.
-                 : Distinguishes between standard multipliers (≤ 10) and extended multipliers (> 10) for more in-depth analysis.
+Multioptedu.ypnb
+- Displays the products of tables 1 to 10 up to 100.
+- Distinguishes between standard multipliers (≤ 10) and extended multipliers (> 10) for more in-depth analysis.
 
 
 
