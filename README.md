@@ -86,15 +86,15 @@ To install them, run the command:
 Bash
 
 
-
+---
 pip install numpy matplotlib
-
+---
 
 
 How to run
 
-* For the visualization, run the desired script (visualisation\_basique.py or visualisation\_étendue.py).
-* For the GCD algorithm, run the script pgcd\_algorithme.py and follow the on-screen instructions. Type / to finish entering numbers.
+* For the visualization, run the desired script (Multoptetu.ypnb).
+* For the GCD algorithm, run the script multioptetu.py and follow the on-screen instructions. Type / to finish entering numbers.
 
 
 
