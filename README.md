@@ -154,9 +154,6 @@ Name: ROKO Japheth
 
 
 
-Contact: japhethroko@gmail.com
-
-
 
 Date: 
 
