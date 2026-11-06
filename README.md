@@ -112,15 +112,11 @@ README.md : This documentation file.
 
 
 
-visualisation\_basique.py : Code for the basic graph.
+Multioptedu.ypnb : Code for the extended graph & basic graph..
 
 
 
-visualisation\_étendue.py : Code for the extended graph.
-
-
-
-pgcd\_algorithme.py : Code for the GCD algorithm.
+multioptedu.py : Code for the GCD algorithm.
 
 
 
