@@ -148,12 +148,3 @@ pgcd\_algorithme.py : Code for the GCD algorithm.
 
 
 
-7\. Author
-
-Name: ROKO Japheth
-
-
-
-
-Date: 
-
