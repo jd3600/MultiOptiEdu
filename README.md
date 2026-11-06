@@ -86,9 +86,9 @@ To install them, run the command:
 Bash
 
 
----
+
 pip install numpy matplotlib
----
+
 
 
 How to run
