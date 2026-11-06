@@ -2,26 +2,6 @@
 
 *Heuristic Model of Number Decomposition by Tabular Representation (MHDN-RT)*
 
-
-
-Table of Contents
-
-&nbsp;	1. Project Introduction
-
-&nbsp;	2. The Concept: From Visualization to Algorithm
-
-&nbsp;	3. Visual Component
-
-&nbsp;	4. Algorithmic Component
-
-&nbsp;	5. Usage
-
-&nbsp;	6. Project Structure
-
-&nbsp;	7. Author
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
